@@ -2,7 +2,7 @@
 #											#
 #	By: Pradeep Gangwar 					#
 #											#
-#	https://pradeepgangwar.tech				#
+#	http://pradeepgangwar.tech				#
 #											#
 #############################################
 
